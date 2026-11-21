@@ -1,5 +1,9 @@
 # The World in One Day — Friday 20 November 2026
 
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Revaaa28/makefun-news-image-20261120-v2/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Revaaa28/makefun-news-image-20261120-v2/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 A single 1024x1024 PNG that sums up the world news of **Friday 20 November
 2026** as a broadsheet newspaper front page: 35 stories across 7 regions,
 every one of them dated to that Friday, with a source named beside each
